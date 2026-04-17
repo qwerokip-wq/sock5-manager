@@ -26,7 +26,7 @@ wget -qO sock5-manager.sh https://raw.githubusercontent.com/qwerokip-wq/sock5-ma
 1. **Клонируйте репозиторий или скачайте скрипт:**
    ```bash
    git clone https://github.com/qwerokip-wq/sock5-manager.git
-   cd ВАШ_РЕПО
+   cd sock5-manager
    ```
 
 2. **Сделайте скрипт исполняемым:**
