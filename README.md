@@ -18,14 +18,14 @@
 Выполните команду на вашем сервере (от имени root):
 
 ```bash
-wget -qO sock5-manager.sh https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПО/main/sock5-manager.sh && chmod +x sock5-manager.sh && sudo ./sock5-manager.sh
+wget -qO sock5-manager.sh https://raw.githubusercontent.com/qwerokip-wq/sock5-manager/main/sock5-manager.sh && chmod +x sock5-manager.sh && sudo ./sock5-manager.sh
 ```
 
 ## 🛠 Ручная установка
 
 1. **Клонируйте репозиторий или скачайте скрипт:**
    ```bash
-   git clone https://github.com/ВАШ_НИК/ВАШ_РЕПО.git
+   git clone https://github.com/qwerokip-wq/sock5-manager.git
    cd ВАШ_РЕПО
    ```
 
